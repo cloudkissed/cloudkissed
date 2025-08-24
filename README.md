@@ -1,11 +1,11 @@
 <img width="150px" align="right" alt="image" src="download.gif" />
 
 
-###
+
 <br>
 <p align="center"><b>hiyaaa~ this is my cozy lil corner of random projects n experiments ♡<br>i made these while learning, messing up, n figuring stuff out~</b></p>
 
-###
+
 
 <br clear="both">
 <br>
