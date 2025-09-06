@@ -1,4 +1,4 @@
-<img width="150px" align="right" alt="image" src="shira.gif" />
+<img width="150px" align="right" alt="image" src="download.gif" />
 
 
 
