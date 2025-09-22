@@ -1,1 +1,1 @@
-This is a collection of projects and experiments I’ve been tinkering with—mostly things I tried while learning, messing around, and figuring stuff out. Nothing polished, just whatever caught my interest along the way.
+*This is a collection of projects and experiments I’ve been tinkering with—mostly things I tried while learning, messing around, and figuring stuff out. Nothing polished, just whatever caught my interest along the way.*
