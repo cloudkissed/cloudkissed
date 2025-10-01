@@ -3,7 +3,7 @@
 
 
 <br>
-<p align="center"><b>hiyaaa~ this is my cozy lil corner of random projects n experiments ♡<br>i made these while learning, messing up, n figuring stuff out~</b></p>
+<p align="center">hiyaaa~ this is my cozy lil corner of random projects n experiments ♡<br>i made these while learning, messing up, n figuring stuff out~</p>
 
 
 
