@@ -3,13 +3,11 @@
 <br><br>
 
 <p align="center">
-  <span style="font-size:1.1em;">
-    hiyaa~ welcome to my cozy lil corner ♡  
-  </span>  
-  <i>
-    just random projects, messy experiments,  
-    and bits of code i stitched together while learning.  
-  </i>  
+  <span style="display: inline-block; max-width: 420px; font-size:1.05em;">
+    hiyaa~ welcome to my cozy lil corner ♡<br>
+    <i>just random projects, messy experiments,  
+    and bits of code i stitched together while learning.</i>
+  </span>
 </p>
 
 <br><br>
