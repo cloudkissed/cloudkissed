@@ -1,7 +1,3 @@
-<img width="150px" align="right" alt="Trans Rights Ribbon" src="t.png" />
-
-<br><br>
-
 <p align="center">
   <span style="display: inline-block; max-width: 420px; font-size:1.05em;">
     hiyaa~ welcome to my cozy lil corner ♡<br>
@@ -9,9 +5,6 @@
     and bits of code i stitched together while learning.</i>
   </span>
 </p>
-
-<br clear="both">
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="23" alt="go logo" />
