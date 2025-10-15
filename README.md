@@ -6,6 +6,8 @@
   </span>
 </p>
 
+###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="23" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="23" />
@@ -29,7 +31,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="23" alt="k8s logo" />
 </div>
 
-###
+##
 
 <p align="center">
   <sub>learning, breaking, rebuilding — that’s the loop that keeps me going</sub>
