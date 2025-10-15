@@ -1,30 +1,36 @@
 <p align="center">
-  <span style="display: inline-block; max-width: 420px; font-size:1.05em;">
-    hiyaa~ welcome to my cozy lil corner ♡<br>
-    <i>just random projects, messy experiments,  
-    and bits of code i stitched together while learning.</i>
+  <span style="display:inline-block; max-width:440px; font-size:1.06em; line-height:1.5;">
+    hey there — this is my github repo ♡<br>
+    <i>i build & break things — small experiments, half-broken ideas,  
+    and code that sometimes works better than expected.</i>
   </span>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="23" alt="go logo" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="23" alt="rust logo" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="23" alt=".net logo" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="23" alt="python logo" />
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" height="23" alt="lua logo" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="23" alt="c++ logo" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="23" alt="mongodb logo" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="23" alt="google cloud logo" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="23" alt="aws logo" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="23" alt="vercel logo" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="23" alt="pytorch logo" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" height="23" alt="opencv logo" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="23" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="23" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="23" alt="vuejs logo" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="23" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" height="23" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" height="23" alt="microservices logo" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" height="23" alt="zig logo" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" height="23" alt="wasm logo" />
+<img src="https://img.shields.io/badge/LLVM-185CFF?style=for-the-badge&logo=llvm&logoColor=white" height="23" alt="llvm logo" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="23" alt="k8s logo" />
 </div>
 
 ###
 
 <p align="center">
-  <sub>
-    it’s not about perfection, it’s about the process  
-  </sub>
+  <sub>learning, breaking, rebuilding — that’s the loop that keeps me going</sub>
 </p>
