@@ -32,7 +32,6 @@
 </div>
 
 ##
-
 <p align="center">
-  <sub>learning, breaking, rebuilding — that’s the loop that keeps me going</sub>
+  <sub>learning, breaking, rebuilding</sub>
 </p>
